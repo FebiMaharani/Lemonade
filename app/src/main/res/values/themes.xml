@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- mendefinisikan nama dari tema custom yang bisa digunakan atau diaktifkan
+    pada aktivitas tertentu pada elemen UI secara langsung-->
+    <style name="Theme.Lemonade" parent="android:Theme.Material.Light.NoActionBar">
+        <!-- membuat status bar menjadi transparan-->
+        <item name="android:windowTranslucentStatus">true</item>
+    </style>
+</resources>
